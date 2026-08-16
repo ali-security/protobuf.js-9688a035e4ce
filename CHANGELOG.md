@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.7.3](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.7.2...protobufjs-v8.7.3) (2026-08-16)
+
+
+### Bug Fixes
+
+* **deps:** update protoc-gen-es benchmark target to v2.14.0 ([#2411](https://github.com/protobufjs/protobuf.js/issues/2411)) ([2fd85aa](https://github.com/protobufjs/protobuf.js/commit/2fd85aa72867d8d36a4be4278c3868ea3da14ba6))
+
 ## [8.7.2](https://github.com/protobufjs/protobuf.js/compare/protobufjs-v8.7.1...protobufjs-v8.7.2) (2026-08-08)
 
 
